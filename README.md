@@ -1,1 +1,1 @@
-# colleg4.demo
+# college.demo
